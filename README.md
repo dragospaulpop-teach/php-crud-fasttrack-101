@@ -30,5 +30,3 @@ Licensed under [LICENSE]. See LICENSE file for details.
 
 ## Disclaimer
 This app is for demo purposes. Not for production use without proper security and validation.
-
-*Assumes inclusion of a LICENSE file and a SQL file for database setup.*
